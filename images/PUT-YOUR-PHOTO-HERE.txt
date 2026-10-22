@@ -1,0 +1,1 @@
+Place your real JPG photo in this folder and name it my-photo.jpg. If using PNG, change src in index.html to images/my-photo.png. The website shows a stylish SY placeholder until you add a photo.
